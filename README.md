@@ -1,4 +1,5 @@
-# README
+# PROJECT: Blog APP
+## Create your first RAILS APP and deploy.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
